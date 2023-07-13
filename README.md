@@ -4,4 +4,4 @@ I created this website for my final project for ITP 303. It features full databa
 
 Check it out!
 
-https://github.com/Qkarnsbboy/ValorantDraft.git
+http://303.itpwebdev.com/~qkarns/final_project/home.php
